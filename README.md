@@ -1,2 +1,5 @@
 # RGBat
-Just batch garland)
+Just simple batch garland for smile)
+
+# Status
+- ready
